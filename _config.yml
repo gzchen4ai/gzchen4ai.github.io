@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Guanzhou Chen's Homepage"
+title                    : "Guanzhou Chen"
 description              : "Guanzhou Chen's Homepage. "
 repository               : "Oranger-cc/gzchen.github.io"
 google_scholar_stats_use_cdn : true
