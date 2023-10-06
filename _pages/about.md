@@ -19,16 +19,17 @@ redirect_from:
 
 I am an undergraduate majoring in computer science in School of Computer Science at Beijing University of Posts and Telecommunications (BUPT). I am also a Ph.D. candidate in School of Electronic Information and Electrical Engineering at Shanghai Jiao Tong University, co-advised by [Prof. Yu Qiao](https://scholar.google.com/citations?user=gFtI-8QAAAAJ) and [Prof. Jifeng Dai](https://jifengdai.org/). Before this, I was fortunate to be an intern in Beijing Institute for General Artificial Intelligence (BIGAI), under the supervision of [Prof. Yitao Liang](https://web.cs.ucla.edu/~yliang/).
 
-# Research Interests
+# 💡 Research Interests
 
 I work on vision-language models and am interested in related topics, including decision-making and large pre-trained foundation models.
 
 # 🔥 News
+- *2022/09*: &nbsp;🎉🎉 One paper are accepted by NeurIPS 2023.
 - *2022/07*: &nbsp;🎉🎉 [DEPS](https://arxiv.org/pdf/2302.01560.pdf) received Best Paper Award at ICML 2023 TEACH Workshop!
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/papers/2302.01560.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents](https://arxiv.org/pdf/2302.01560.pdf)
@@ -37,20 +38,25 @@ I work on vision-language models and am interested in related topics, including 
 
 Zihao Wang, Shaofei Cai, **Guanzhou Chen**, Anji Liu, Xiaojian Ma, Yitao Liang
 
-**NeurIPS 2023** | [Paper](https://arxiv.org/pdf/2302.01560.pdf) | [Code](https://github.com/CraftJarvis/MC-Planner)
+**NeurIPS 2023** | [Paper](https://arxiv.org/pdf/2302.01560.pdf) | [Code](https://github.com/CraftJarvis/MC-Planner) | ![Stars](https://img.shields.io/github/stars/CraftJarvis/MC-Planner)
 </div>
 </div>
 
 # 🎖 Honors and Awards
-- *2021/11* Gold Medal, 9th place, 2021 China Collegiate Programming Contest, Harbin🏅
-- *2021/04* Gold Medal, 13th place, 45th ICPC Asia, Kunming🏅
+- *2021/11* Gold Medal, 9th place, 2021 China Collegiate Programming Contest, Harbin 🏅
+- *2021/04* Gold Medal, 13th place, 45th ICPC Asia, Kunming 🏅
+- *2021/11* Gold Medal, 20th place, 46th ICPC Asia, Shenyang 🏅
+- *2019/07* Brozen Medal, 36th National Olympic in Informatics
 
 # 📖 Educations
-- *2020.09 - now*, undergraduate majoring in Computer Science, Beijing University of Posts and Telecommunications
+- *2020/09 - now*, undergraduate majoring in Computer Science, Beijing University of Posts and Telecommunications
 
+<!--
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2021/06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021/03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2019/05 - 2020/02*, [Lorem](https://github.com/), China.
+-->
