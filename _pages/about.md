@@ -42,7 +42,8 @@ Zihao Wang, Shaofei Cai, **Guanzhou Chen**, Anji Liu, Xiaojian Ma, Yitao Liang
 </div>
 </div>
 
-# 🎖 Honors and Awards
+# 🎖 Selected Honors and Awards
+- *2022/07* Silver Medal, ICPC Asia-East Final
 - *2021/11* Gold Medal, 9th place, 2021 China Collegiate Programming Contest, Harbin 🏅
 - *2021/04* Gold Medal, 13th place, 45th ICPC Asia, Kunming 🏅
 - *2021/11* Gold Medal, 20th place, 46th ICPC Asia, Shenyang 🏅
