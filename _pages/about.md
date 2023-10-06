@@ -24,7 +24,7 @@ I am an undergraduate majoring in computer science in School of Computer Science
 I work on vision-language models and am interested in related topics, including decision-making and large pre-trained foundation models.
 
 # 🔥 News
-- *2022/09*: &nbsp;🎉🎉 One paper are accepted by NeurIPS 2023.
+- *2022/09*: &nbsp;🎉🎉 One paper is accepted by NeurIPS 2023!
 - *2022/07*: &nbsp;🎉🎉 [DEPS](https://arxiv.org/pdf/2302.01560.pdf) received Best Paper Award at ICML 2023 TEACH Workshop!
 
 # 📝 Publications 
