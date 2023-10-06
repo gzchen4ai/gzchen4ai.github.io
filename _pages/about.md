@@ -50,7 +50,20 @@ Zihao Wang, Shaofei Cai, **Guanzhou Chen**, Anji Liu, Xiaojian Ma, Yitao Liang
 - *2019/07* Brozen Medal, 36th National Olympic in Informatics
 
 # 📖 Educations
+<div class='school-box'>
+<div><img src='images/bupt.png' alt="sym" width="80"></div>
+<div class='school-box-text' markdown="1">
+2020/09 - now, Undergraduate
+
+School of Computer Science
+
+Beijing University of Posts and Telecommunications, Beijing
+</div>
+</div>
+
+<!--
 - *2020/09 - now*, undergraduate majoring in Computer Science, Beijing University of Posts and Telecommunications
+-->
 
 <!--
 # 💬 Invited Talks
