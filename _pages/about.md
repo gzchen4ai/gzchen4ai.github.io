@@ -19,7 +19,7 @@ redirect_from:
 
 I am an undergraduate majoring in computer science in School of Computer Science at Beijing University of Posts and Telecommunications (BUPT). I am also a Ph.D. candidate in School of Electronic Information and Electrical Engineering at Shanghai Jiao Tong University, co-advised by [Prof. Yu Qiao](https://scholar.google.com/citations?user=gFtI-8QAAAAJ) and [Prof. Jifeng Dai](https://jifengdai.org/). Before this, I was fortunate to be an intern in Beijing Institute for General Artificial Intelligence (BIGAI), under the supervision of [Prof. Yitao Liang](https://web.cs.ucla.edu/~yliang/).
 
-# 💡 Research Interests
+# 🔬 Research Interests
 
 I work on vision-language models and am interested in related topics, including decision-making and large pre-trained foundation models.
 
@@ -42,7 +42,7 @@ Zihao Wang, Shaofei Cai, **Guanzhou Chen**, Anji Liu, Xiaojian Ma, Yitao Liang
 </div>
 </div>
 
-# 🎖 Selected Honors and Awards
+# 🌟 Selected Honors and Awards
 - *2023/10* CCF Elite Collegiate Award
 - *2022/07* Silver Medal, ICPC Asia-East Final
 - *2021/11* Gold Medal, 9th place, 2021 China Collegiate Programming Contest, Harbin 🏅
