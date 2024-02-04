@@ -17,14 +17,17 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an undergraduate majoring in computer science in School of Computer Science at Beijing University of Posts and Telecommunications (BUPT). I am also a Ph.D. candidate in School of Electronic Information and Electrical Engineering at Shanghai Jiao Tong University, co-advised by [Prof. Yu Qiao](https://scholar.google.com/citations?user=gFtI-8QAAAAJ) and [Prof. Jifeng Dai](https://jifengdai.org/). Before this, I was fortunate to be an intern in Beijing Institute for General Artificial Intelligence (BIGAI), under the supervision of [Prof. Yitao Liang](https://web.cs.ucla.edu/~yliang/).
+I am an undergraduate majoring in computer science in School of Computer Science at Beijing University of Posts and Telecommunications (BUPT). I am also a Ph.D. candidate in School of Electronic Information and Electrical Engineering at Shanghai Jiao Tong University, co-advised by [Prof. Yu Qiao](https://scholar.google.com/citations?user=gFtI-8QAAAAJ) and [Prof. Jifeng Dai](https://jifengdai.org/).
+
+Before this, I was fortunate to be an intern at Beijing Institute for General Artificial Intelligence (BIGAI), under the supervision of [Prof. Yitao Liang](https://web.cs.ucla.edu/~yliang/).
 
 # 🔬 Research Interests
 
 I work on vision-language models and am interested in related topics, including decision-making and large pre-trained foundation models.
 
 # 🔥 News
-- *2023/09*: &nbsp;🎉🎉 One paper is accepted by NeurIPS 2023!
+- *2023/10*: &nbsp;🎉🎉 I received CCF Elite Collegiate Award.
+- *2023/09*: &nbsp;🎉🎉 [DEPS](https://arxiv.org/pdf/2302.01560.pdf) is accepted by NeurIPS 2023.
 - *2023/07*: &nbsp;🎉🎉 [DEPS](https://arxiv.org/pdf/2302.01560.pdf) received Best Paper Award at ICML 2023 TEACH Workshop!
 
 # 📝 Publications 
@@ -70,8 +73,8 @@ Beijing University of Posts and Telecommunications, Beijing
 # 💬 Invited Talks
 - *2021/06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021/03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
+-->
 
 # 💻 Internships
-- *2019/05 - 2020/02*, [Lorem](https://github.com/), China.
--->
+- *2024/02 - Now*: Trainee researcher at [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/), Beijing.
+
