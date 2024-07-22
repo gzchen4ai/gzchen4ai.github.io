@@ -32,14 +32,14 @@ I work on vision-language models and am interested in related topics, including 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/papers/2302.01560.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/papers/2302.01560.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [OmniCorpus: A Unified Multimodal Corpus of 10 Billion-Level Images Interleaved with Text](https://arxiv.org/pdf/2406.08418)
 
 Qingyun Li, Zhe Chen, Weiyun Wang, Wenhai Wang, Shenglong Ye, Zhenjiang Jin, **Guanzhou Chen**, Yinan He, Zhangwei Gao, Erfei Cui, Jiashuo Yu, Hao Tian, Jiasheng Zhou, Chao Xu, Bin Wang, Xingjian Wei, Wei Li, Wenjian Zhang, Bo Zhang, Pinlong Cai, Licheng Wen, Xiangchao Yan, Zhenxiang Li, Pei Chu, Yi Wang, Min Dou, Changyao Tian, Xizhou Zhu, Lewei Lu, Yushi Chen, Junjun He, Zhongying Tu, Tong Lu, Yali Wang, Limin Wang, Dahua Lin, Yu Qiao, Botian Shi, Conghui He, Jifeng Dai
 
-Arxiv | [Paper](https://arxiv.org/pdf/2406.08418) | [Code](https://github.com/OpenGVLab/OmniCorpus) | ![Stars](https://img.shields.io/github/stars/OpenGVLab/OmniCorpus)
+arXiv | [Paper](https://arxiv.org/pdf/2406.08418) | [Code](https://github.com/OpenGVLab/OmniCorpus) | ![Stars](https://img.shields.io/github/stars/OpenGVLab/OmniCorpus)
 </div>
 </div>
 
@@ -66,7 +66,7 @@ Zihao Wang, Shaofei Cai, **Guanzhou Chen**, Anji Liu, Xiaojian Ma, Yitao Liang
 
 # 📖 Educations
 <div class='school-box'>
-<div><img src='images/sjtu.png' alt="sym" width="80"></div>
+<div><img src='images/sjtu.jpg' alt="sym" width="80"></div>
 <div class='school-box-text' markdown="1">
 2024/09 - now, PhD
 
