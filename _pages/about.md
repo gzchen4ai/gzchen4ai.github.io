@@ -17,15 +17,18 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an undergraduate majoring in computer science in School of Computer Science at Beijing University of Posts and Telecommunications (BUPT). I am also a Ph.D. candidate in School of Electronic Information and Electrical Engineering at Shanghai Jiao Tong University, co-advised by [Prof. Yu Qiao](https://scholar.google.com/citations?user=gFtI-8QAAAAJ) and [Prof. Jifeng Dai](https://jifengdai.org/).
+# 🤓 Bio
 
-Before this, I was fortunate to be an intern at Beijing Institute for General Artificial Intelligence (BIGAI), under the supervision of [Prof. Yitao Liang](https://web.cs.ucla.edu/~yliang/).
+I am an incoming Ph.D. student in the School of Electronic Information and Electrical Engineering at Shanghai Jiao Tong University, co-advised by [Prof. Yu Qiao](https://scholar.google.com/citations?user=gFtI-8QAAAAJ) and [Prof. Jifeng Dai](https://jifengdai.org/). Before this, I obtained my bachelor's degree in the School of Computer Science at Beijing University of Posts and Telecommunications.
+
+Prior to that, I was fortunate to be a research intern at **BIGAI** (Beijing Institute for General Artificial Intelligence), under the supervision of [Prof. Yitao Liang](https://web.cs.ucla.edu/~yliang/).
 
 # 🔬 Research Interests
 
 I work on vision-language models and am interested in related topics, including decision-making and large pre-trained foundation models.
 
 # 🔥 News
+
 - *2023/10*: &nbsp;🎉🎉 I received CCF Elite Collegiate Award.
 - *2023/09*: &nbsp;🎉🎉 [DEPS](https://arxiv.org/pdf/2302.01560.pdf) is accepted by NeurIPS 2023.
 - *2023/07*: &nbsp;🎉🎉 [DEPS](https://arxiv.org/pdf/2302.01560.pdf) received Best Paper Award at ICML 2023 TEACH Workshop!
@@ -61,7 +64,9 @@ Zihao Wang, Shaofei Cai, **Guanzhou Chen**, Anji Liu, Xiaojian Ma, Yitao Liang
 </div>
 
 # 🌟 Selected Honors and Awards
+
 - *2023/10* CCF Elite Collegiate Award
+- *2023/07* Best Paper Award, ICML 2023 TEACH Workshop
 - *2022/07* Silver Medal, ICPC Asia-East Final
 - *2021/11* Gold Medal, 9th place, 2021 China Collegiate Programming Contest, Harbin 🏅
 - *2021/11* Gold Medal, 20th place, 46th ICPC Asia, Shenyang 🏅
@@ -72,7 +77,7 @@ Zihao Wang, Shaofei Cai, **Guanzhou Chen**, Anji Liu, Xiaojian Ma, Yitao Liang
 <div class='school-box'>
 <div><img src='images/sjtu.jpg' alt="sym" width="80"></div>
 <div class='school-box-text' markdown="1">
-2024/09 - now, PhD
+2024/09 - now, Ph.D. student
 
 School of Electronic Information and Electrical Engineering
 
@@ -83,7 +88,7 @@ Shanghai Jiao Tong University, Shanghai
 <div class='school-box'>
 <div><img src='images/bupt.png' alt="sym" width="80"></div>
 <div class='school-box-text' markdown="1">
-2020/09 - 2024/06, Undergraduate
+2020/09 - 2024/06, Bachelor
 
 School of Computer Science
 
@@ -91,9 +96,7 @@ Beijing University of Posts and Telecommunications, Beijing
 </div>
 </div>
 
-<!--
-- *2020/09 - 2024.6*, undergraduate majoring in Computer Science, Beijing University of Posts and Telecommunications
--->
+
 
 <!--
 # 💬 Invited Talks
@@ -102,5 +105,6 @@ Beijing University of Posts and Telecommunications, Beijing
 -->
 
 # 💻 Internships
-- *2024/02 - Now*: Trainee researcher at [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/), Beijing/Shanghai.
 
+- *2024/02 - Now*: Trainee researcher at [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/), Beijing/Shanghai.
+- *2023/02 - 2023/07*: Research intern at [BIGAI](https://www.bigai.ai/), Beijing.
