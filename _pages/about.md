@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# 🤓 Bio
+# 🤓 About Me
 
 I am an incoming Ph.D. student in the School of Electronic Information and Electrical Engineering at Shanghai Jiao Tong University, co-advised by [Prof. Yu Qiao](https://scholar.google.com/citations?user=gFtI-8QAAAAJ) and [Prof. Jifeng Dai](https://jifengdai.org/). Before this, I obtained my bachelor's degree in the School of Computer Science at Beijing University of Posts and Telecommunications.
 
