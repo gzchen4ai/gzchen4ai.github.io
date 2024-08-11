@@ -65,7 +65,7 @@ Zihao Wang, Shaofei Cai, **Guanzhou Chen**, Anji Liu, Xiaojian Ma, Yitao Liang
 
 # 🌟 Selected Honors and Awards
 
-- *2023/10* CCF Elite Collegiate Award
+- *2023/10* CCF Elite Collegiate Award **(top 99 nationwide)**
 - *2023/07* Best Paper Award, ICML 2023 TEACH Workshop
 - *2022/07* Silver Medal, ICPC Asia-East Final
 - *2021/11* Gold Medal, 9th place, 2021 China Collegiate Programming Contest, Harbin 🏅
