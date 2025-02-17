@@ -19,9 +19,9 @@ redirect_from:
 
 # 🤓 About Me
 
-I am an incoming Ph.D. student in the School of Electronic Information and Electrical Engineering at Shanghai Jiao Tong University, co-advised by [Prof. Yu Qiao](https://scholar.google.com/citations?user=gFtI-8QAAAAJ) and [Prof. Jifeng Dai](https://jifengdai.org/). Before this, I obtained my bachelor's degree in the School of Computer Science at Beijing University of Posts and Telecommunications.
+I am a first-year Ph.D. student in the School of Electronic Information and Electrical Engineering at Shanghai Jiao Tong University, co-advised by [Prof. Yu Qiao](https://scholar.google.com/citations?user=gFtI-8QAAAAJ) and [Prof. Jifeng Dai](https://jifengdai.org/). Before this, I obtained my bachelor's degree in the School of Computer Science at Beijing University of Posts and Telecommunications.
 
-Prior to that, I was fortunate to be a research intern at **BIGAI** (Beijing Institute for General Artificial Intelligence), under the supervision of [Prof. Yitao Liang](https://web.cs.ucla.edu/~yliang/).
+I am also a trainee researcher at Shanghai AI Lab. Prior to that, I was fortunate to be a research intern at **BIGAI** (Beijing Institute for General Artificial Intelligence), under the supervision of [Prof. Yitao Liang](https://web.cs.ucla.edu/~yliang/).
 
 # 🔬 Research Interests
 
@@ -29,7 +29,7 @@ I work on vision-language models and am interested in related topics, including 
 
 # 🔥 News
 
-- *2023/10*: &nbsp;🎉🎉 I received CCF Elite Collegiate Award.
+- *2023/10*: &nbsp;🎉🎉 I received CCF Elite Collegiate Award **(top 99 nationwide)**.
 - *2023/09*: &nbsp;🎉🎉 [DEPS](https://arxiv.org/pdf/2302.01560.pdf) is accepted by NeurIPS 2023.
 - *2023/07*: &nbsp;🎉🎉 [DEPS](https://arxiv.org/pdf/2302.01560.pdf) received Best Paper Award at ICML 2023 TEACH Workshop!
 
@@ -46,7 +46,7 @@ Qingyun Li, Zhe Chen, Weiyun Wang, Wenhai Wang, Shenglong Ye, Zhenjiang Jin, **G
 
 Qingyun Li, Zhe Chen, Weiyun Wang, Wenhai Wang, Shenglong Ye, Zhenjiang Jin, **Guanzhou Chen**, Yinan He, Zhangwei Gao, Erfei Cui, Jiashuo Yu, Hao Tian, Jiasheng Zhou, Chao Xu, Bin Wang, Xingjian Wei, Wei Li, Wenjian Zhang, Bo Zhang, Pinlong Cai, Licheng Wen, Xiangchao Yan, Zhenxiang Li, Pei Chu, Yi Wang, ..., Limin Wang, Dahua Lin, Yu Qiao, Botian Shi, Conghui He, Jifeng Dai
 
-arXiv | [Paper](https://arxiv.org/pdf/2406.08418) | [Code](https://github.com/OpenGVLab/OmniCorpus) | ![Stars](https://img.shields.io/github/stars/OpenGVLab/OmniCorpus)
+**ICLR 2025 (Spotlight)** | [Paper](https://arxiv.org/pdf/2406.08418) | [Code](https://github.com/OpenGVLab/OmniCorpus) | ![Stars](https://img.shields.io/github/stars/OpenGVLab/OmniCorpus)
 </div>
 </div>
 
