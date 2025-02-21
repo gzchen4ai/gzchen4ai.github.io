@@ -19,9 +19,9 @@ redirect_from:
 
 # 🤓 About Me
 
-I am a first-year Ph.D. student in the School of Electronic Information and Electrical Engineering at Shanghai Jiao Tong University, co-advised by [Prof. Yu Qiao](https://scholar.google.com/citations?user=gFtI-8QAAAAJ) and [Prof. Jifeng Dai](https://jifengdai.org/). Before this, I obtained my bachelor's degree in the School of Computer Science at Beijing University of Posts and Telecommunications.
+My name is Guanzhou Chen (陈冠州 in Chinese), and I am a first-year Ph.D. student in the School of Electronic Information and Electrical Engineering at Shanghai Jiao Tong University, supervised by [Prof. Jifeng Dai](https://jifengdai.org/) and [Prof. Yu Qiao](https://scholar.google.com/citations?user=gFtI-8QAAAAJ). Before this, I obtained my bachelor's degree in the School of Computer Science at Beijing University of Posts and Telecommunications in 2024.
 
-I am also a trainee researcher at Shanghai AI Lab. Prior to that, I was fortunate to be a research intern at **BIGAI** (Beijing Institute for General Artificial Intelligence), under the supervision of [Prof. Yitao Liang](https://web.cs.ucla.edu/~yliang/).
+I am also a trainee researcher at the Shanghai AI Lab. Prior to that, I was fortunate to be a research intern at **BIGAI** (Beijing Institute for General Artificial Intelligence), under the supervision of [Prof. Yitao Liang](https://web.cs.ucla.edu/~yliang/).
 
 # 🔬 Research Interests
 
@@ -29,13 +29,13 @@ I work on vision-language models and am interested in related topics, including 
 
 # 🔥 News
 
-- *2023/10*: &nbsp;🎉🎉 I received CCF Elite Collegiate Award **(top 99 nationwide)**.
-- *2023/09*: &nbsp;🎉🎉 [DEPS](https://arxiv.org/pdf/2302.01560.pdf) is accepted by NeurIPS 2023.
-- *2023/07*: &nbsp;🎉🎉 [DEPS](https://arxiv.org/pdf/2302.01560.pdf) received Best Paper Award at ICML 2023 TEACH Workshop!
+- *2025/02*: &nbsp;🎉🎉 [OmniCorpus]((https://arxiv.org/pdf/2406.08418)) is accepted by ICLR2025 as Spotlight!
+- *2024/12*: &nbsp;🎉🎉 Our team released [InternVL-2.5](https://internvl.github.io/blog/2024-12-05-InternVL-2.5/)!
+- *2023/10*: &nbsp;🎉🎉 I received CCF Elite Collegiate Award (top 99 nationwide)!
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/papers/2406.08418.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR2025</div><img src='images/papers/2406.08418.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [OmniCorpus: A Unified Multimodal Corpus of 10 Billion-Level Images Interleaved with Text](https://arxiv.org/pdf/2406.08418)
