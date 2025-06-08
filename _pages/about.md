@@ -40,7 +40,7 @@ I work on vision-language models and am interested in related topics, including 
 
 [Visual Embodied Brain: Let Multimodal Large Language Models See, Think, and Control in Spaces](https://internvl.github.io/blog/2025-05-26-VeBrain/)
 
-Gen Luo*, Ganlin Yang*, Ziyang Gong*, **Guanzhou Chen***, Haonan Duan, Erfei Cui, Ronglei Tong, Zhi Hou, Tianyi Zhang, Zhe Chen, Shenglong Ye, Lewei Lu, Jingbo Wang, Wenhai Wang, Jifeng Dai, Yu Qiao, Rongrong Ji, Xizhou Zhu
+Gen Luo\*, Ganlin Yang\*, Ziyang Gong\*, **Guanzhou Chen**\*, Haonan Duan, Erfei Cui, Ronglei Tong, Zhi Hou, Tianyi Zhang, Zhe Chen, Shenglong Ye, Lewei Lu, Jingbo Wang, Wenhai Wang, Jifeng Dai, Yu Qiao, Rongrong Ji, Xizhou Zhu
 
 Arxiv | [Homepage](https://internvl.github.io/blog/2025-05-26-VeBrain/) | [Paper](https://arxiv.org/pdf/2506.00123) | [Model](https://huggingface.co/OpenGVLab/VeBrain) | [Code](https://github.com/OpenGVLab/VeBrain) | ![Stars](https://img.shields.io/github/stars/OpenGVLab/VeBrain)
 </div>
