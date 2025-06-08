@@ -34,6 +34,17 @@ I work on vision-language models and am interested in related topics, including 
 - *2023/10*: &nbsp;🎉🎉 I received CCF Elite Collegiate Award (top 99 nationwide)!
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/papers/2506.00123.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Visual Embodied Brain: Let Multimodal Large Language Models See, Think, and Control in Spaces](https://internvl.github.io/blog/2025-05-26-VeBrain/)
+
+Gen Luo*, Ganlin Yang*, Ziyang Gong*, **Guanzhou Chen***, Haonan Duan, Erfei Cui, Ronglei Tong, Zhi Hou, Tianyi Zhang, Zhe Chen, Shenglong Ye, Lewei Lu, Jingbo Wang, Wenhai Wang, Jifeng Dai, Yu Qiao, Rongrong Ji, Xizhou Zhu
+
+Arxiv | [Homepage](https://internvl.github.io/blog/2025-05-26-VeBrain/) | [Paper](https://arxiv.org/pdf/2506.00123) | [Model](https://huggingface.co/OpenGVLab/VeBrain) | [Code](https://github.com/OpenGVLab/VeBrain) | ![Stars](https://img.shields.io/github/stars/OpenGVLab/VeBrain)
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR2025</div><img src='images/papers/2406.08418.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
