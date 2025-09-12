@@ -29,6 +29,7 @@ I work on vision-language models and am interested in related topics, including 
 
 # 🔥 News
 
+- *2025/05*: &nbsp;🎉🎉 Our team released [InternVL3.5](https://huggingface.co/collections/OpenGVLab/internvl35-68ac87bd52ebe953485927fb), welcome to have a try!
 - *2025/05*: &nbsp;🎉🎉 [VeBrain](https://internvl.github.io/blog/2025-05-26-VeBrain/) is released, demonstrating the first framework unifying multimodal understanding, spatial intelligence and robot control!
 - *2025/02*: &nbsp;🎉🎉 [OmniCorpus](https://arxiv.org/pdf/2406.08418) is accepted by ICLR2025 as Spotlight!
 - *2024/12*: &nbsp;🎉🎉 Our team released [InternVL-2.5](https://internvl.github.io/blog/2024-12-05-InternVL-2.5/)!
