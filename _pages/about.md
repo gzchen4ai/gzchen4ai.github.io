@@ -29,6 +29,7 @@ I work on vision-language models and am interested in related topics, including 
 
 # 🔥 News
 
+- *2026/03*: &nbsp;🎉🎉 Our team released lightweight unified multimodal model [InternVL-U](https://huggingface.co/InternVL-U/InternVL-U), evaluation kit for generation benchmarks [GenEditEvalKit](https://github.com/open-compass/GenEditEvalKit), and high-quality editing data curation framework [ScaleEdit-12M](https://huggingface.co/datasets/InternVL-U/ScaleEdit-12M)!
 - *2025/08*: &nbsp;🎉🎉 Our team released [InternVL3.5](https://huggingface.co/collections/OpenGVLab/internvl35-68ac87bd52ebe953485927fb), welcome to have a try!
 - *2025/05*: &nbsp;🎉🎉 [VeBrain](https://internvl.github.io/blog/2025-05-26-VeBrain/) is released, demonstrating the first framework unifying multimodal understanding, spatial intelligence and robot control!
 - *2025/02*: &nbsp;🎉🎉 [OmniCorpus](https://arxiv.org/pdf/2406.08418) is accepted by ICLR2025 as Spotlight!
@@ -36,6 +37,43 @@ I work on vision-language models and am interested in related topics, including 
 - *2023/10*: &nbsp;🎉🎉 I received CCF Elite Collegiate Award (top 99 nationwide)!
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='https://github.com/gzchen4ai/ScaleEdit-12M/blob/main/assets/teaser.png?raw=true' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[ScaleEdit-12M: Scaling Open-Source Image Editing Data Generation via Multi-Agent Framework](https://arxiv.org/pdf/2603.20644)
+
+**Guanzhou Chen**\*, Erfei Cui\*, Changyao Tian\*, Danni Yang\*, Ganlin Yang, Yu Qiao, Hongsheng Li, Gen Luo, Hongjie Zhang
+
+Arxiv | [Paper](https://arxiv.org/pdf/2603.20644) | [Dataset](https://huggingface.co/datasets/InternVL-U/ScaleEdit-12M) | [Code](https://github.com/gzchen4ai/ScaleEdit-12M) | ![Downloads](https://img.shields.io/badge/dynamic/json?url=https://huggingface.co/api/datasets/InternVL-U/ScaleEdit-12M&query=$.downloads&label=downloads&logo=huggingface)
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/papers/2603.09877.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[InternVL-U: Democratizing Unified Multimodal Models for Understanding, Reasoning, Generation and Editing](https://arxiv.org/pdf/2603.09877)
+
+Changyao Tian\*, Danni Yang\*, **Guanzhou Chen**\*, Erfei Cui\*, Zhaokai Wang\*, Yuchen Duan\*, Penghao Yin\*, Sitao Chen, Ganlin Yang, Mingxin Liu, Zirun Zhu, Ziqian Fan, Leyao Gu, Haomin Wang, Qi Wei, Jinhui Yin, Xue Yang, Zhihang Zhong, Qi Qin, Yi Xin, Bin Fu, Yihao Liu, Jiaye Ge, Qipeng Guo, Gen Luo, Hongsheng Li, Yu Qiao, Kai Chen and Hongjie Zhang
+
+Arxiv | [Paper](https://arxiv.org/pdf/2603.09877) | [Model](https://huggingface.co/InternVL-U/InternVL-U) | [Code](https://github.com/OpenGVLab/InternVL-U) | ![Stars](https://img.shields.io/github/stars/OpenGVLab/InternVL-U)
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/papers/2603.09877.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[InternVL3.5: Advancing Open-Source Multimodal Models in Versatility, Reasoning, and Efficiency](https://arxiv.org/abs/2508.18265)
+
+Weiyun Wang, Zhangwei Gao, Lixin Gu, Hengjun Pu, Long Cui, Xingguang Wei, Zhaoyang Liu, Linglin Jing, Shenglong Ye, Jie Shao, Zhaokai Wang, Zhe Chen, Hongjie Zhang, Ganlin Yang, Haomin Wang, Qi Wei, Jinhui Yin, Wenhao Li, Erfei Cui, **Guanzhou Chen**, Zichen Ding, Changyao Tian, ..., Xizhou Zhu, Tong Lu, Dahua Lin, Jifeng Dai, Weijie Su, Bowen Zhou, Kai Chen, Yu Qiao, Wenhai Wang, Gen Luo
+
+Arxiv | [Paper](https://arxiv.org/abs/2508.18265) | [Models](https://huggingface.co/collections/OpenGVLab/internvl35-core) | [Code](https://github.com/OpenGVLab/InternVL) | ![Stars](https://img.shields.io/github/stars/OpenGVLab/InternVL)
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/papers/2506.00123.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
